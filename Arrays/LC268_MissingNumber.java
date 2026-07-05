@@ -4,6 +4,7 @@ public class LC268_MissingNumber {
 
         int n = nums.length;
         int missing = 0;
+        
 
 
         for(int i : nums) {
