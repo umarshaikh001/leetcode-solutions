@@ -1,6 +1,6 @@
 public class LC1672_RichestCustomerWealth {
 
-     static int   maximumWealth(int matrix[][]) {
+     static int  maximumWealth(int matrix[][]) {
         
         int n = matrix.length;
         int m = matrix[0].length;
