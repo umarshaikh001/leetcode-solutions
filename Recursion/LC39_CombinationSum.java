@@ -10,7 +10,7 @@ public class LC39_CombinationSum {
             // agar humere target 0 ho gaya.
             // matlab humere answer readay hai .
             // answer ko store kara lo.
-            ans.add(new ArrayList(output));
+            ans.add(new ArrayList<>(output));
             return ;
         }
 
